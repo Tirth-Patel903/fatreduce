@@ -40,9 +40,9 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <nav class="nav-menu d-none d-lg-block">
 <ul>
 <li class="active"><a href="index.php">Home</a></li>
-<li class="drop-down"><a href="about-us.php">About</a>
+<li class="drop-down"><a href="about.php">About</a>
 <ul>
-<li><a href="about/about-us.php">About Us</a></li>
+ <li><a href="about/about.php">About Us</a></li> 
 
 </ul>
 </li>
@@ -51,7 +51,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
 
 
-<li><a href="feedback.html">Feedbacks</a></li>
+<li><a href="feedback.php">Feedbacks</a></li>
 <li><a href data-toggle="modal" data-target="#imwowcallbckmodal">Get a Call Back</a></li>
 </ul>
 </nav>

@@ -18,7 +18,7 @@
 <div class="col-lg-2 col-md-6 footer-links">
 <h4 class="ftr-titl">Sitemap</h4>
 <ul>
-<li><i class="bx bx-chevron-right"></i> <a href="about/about-us.php">About Us</a></li>
+<li><i class="bx bx-chevron-right"></i> <a href="about/aboutus.php">About Us</a></li>
 <li><i class="bx bx-chevron-right"></i> <a href="programs/all-programs.html">All Programs</a></li>
 <li><i class="bx bx-chevron-right"></i> <a target="_blank" href="https://forms.gle/6QYCLw88bFjy8D9f7">Career</a></li>
 <li><i class="bx bx-chevron-right"></i> <a href="feedback.html">Feedback</a></li>
